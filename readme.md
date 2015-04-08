@@ -3,8 +3,32 @@
 
 I'll write up my notes from the conference as each talk finishes, and publish them here.
 
-### [Sample title](notes/sample.md)
-Speaker Name | 09:00 - 10:00 
-
-### How to design with science
+### [How to Design with Science](notes/design-with-science.md)
 Joe Leech | 10:10
+
+### [One Interface to Rule Them All](notes/one-interface.md)
+10:45 | Josh Emerson
+
+### [](notes/.md)
+11:45 | Michael Gould
+
+### [Learning from Comics](notes/comics.md)
+12:10 | Bonny Colville-Hyde
+
+### [IRL - Bring Computing into the Real World](notes/real-world.md)
+12:45 | Seb Lee-Delisle
+
+### [Wanting the Web to #Win](notes/web-to-win.md)
+14:40 | Phil Hawksworth
+
+### [?????](notes/?????.md)
+15:15 | Mystery Speaker
+
+### [Style Guides, Pattern Libraries and Code Standards](notes/xxxxx.md)
+15:50 | Anna Debenham
+
+### [MAKE IT HAPPEN](notes/make-it-happen.md)
+16:50 | Allison House
+
+### [Paper, Plastic & Pixels](notes/paper-plastic-pixels.md)
+17:25 | Brendan Dawes
