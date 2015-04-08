@@ -24,7 +24,7 @@ Joe Leech | 10:10
 ### [?????](notes/?????.md)
 15:15 | Mystery Speaker
 
-### [Style Guides, Pattern Libraries and Code Standards](notes/xxxxx.md)
+### [Style Guides, Pattern Libraries and Code Standards](notes/style-guides.md)
 15:50 | Anna Debenham
 
 ### [MAKE IT HAPPEN](notes/make-it-happen.md)
