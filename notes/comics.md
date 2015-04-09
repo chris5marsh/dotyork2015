@@ -69,12 +69,10 @@ e.g. comic for Chrome
 
 ## Remember
 
-Engage decision makers
-Don't obsess about process
-Speak to users
-PLAN!
-Make it easy for yourself
-Have fun
-
-
+* Engage decision makers
+* Don't obsess about process
+* Speak to users
+* PLAN!
+* Make it easy for yourself
+* Have fun
 
