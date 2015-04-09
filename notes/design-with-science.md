@@ -1,3 +1,6 @@
+# How to design based on science
+### Joe Leech | 10:10
+
 Being micromanaged, losing the magic from design,getting criticism from internal team are all problems faced in design and dev.
 
 Design can be a power struggle.
