@@ -9,7 +9,7 @@ Joe Leech | 10:10
 ### [One Interface to Rule Them All](notes/one-interface.md)
 10:45 | Josh Emerson
 
-### [](notes/.md)
+### [Bringing consumer-level design to enterprise-level development](notes/gould.md)
 11:45 | Michael Gould
 
 ### [Learning from Comics](notes/comics.md)
